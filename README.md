@@ -36,10 +36,10 @@ Les llibreries necessàries per aquest projecte son:
 ### Esquema HW
 ![MiniGolfer Hardware Diagram](./HW/MiniGolfer_HW.png)
 
-1.1. Connexió positiu del motor A
-1.2. Connexió positiu del motor B
-2.1. Connexió negatiu del motor A
-2.2. Connexió negatiu del motor B
+1.1. Connexió positiu del motor A  
+1.2. Connexió positiu del motor B  
+2.1. Connexió negatiu del motor A  
+2.2. Connexió negatiu del motor B  
 3. Alimentació 9v
 4. 5V de Raspberry
 5.1. Connexió de terra del driver connectat al GND de Raspberry
