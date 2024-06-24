@@ -41,6 +41,7 @@ Les llibreries necessàries per aquest projecte son:
 ### Resultats Finals + Video
 
 ### Autors
+
 - Arnau Altimira Rubio
 - Bernat Brustenga Garriga
 - Wenpeng Ji
