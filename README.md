@@ -5,7 +5,7 @@ MiniGolfer es un robot el qual es capaç de jugar a minigolf.
 
 
 
-HW-![MiniGolfer Hardware Diagram](./MiniGolfer_HW.png)
+HW-![MiniGolfer Hardware Diagram](./.png)
 3D-
 
 SW-
