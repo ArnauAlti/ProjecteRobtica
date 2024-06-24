@@ -9,14 +9,17 @@ MiniGolfer es un robot el qual es capaç de jugar a minigolf.
 ### Resultats Finals + Video 
 ### Autors
 
-### Contingut {#contingut}
+### Contingut
 
-### Requeriments {#requeriments}
+Aquí está el contenido de la sección Contingut.
+
+### Requeriments
 Les llibreries necessàries per aquest projecte son:
 - RPi.GPIO
 - OpenCV
 - Numpy
 - time
+
 
 
 
