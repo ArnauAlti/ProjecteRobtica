@@ -1,14 +1,13 @@
 # MiniGolfer
-MiniGolfer es un robot el qual es capaç de jugar a minigolf.
+MiniGolfer es un robot el cual es capaz de jugar a minigolf.
 
 ### [Contingut](#contingut)
 ### [Requeriments](#requeriments)
 ### [Components](#components)
-### [Esquema HW](#HW)
-### [Esquema SW](#SW)
-### [Resultats Finals + Video](#RFV)
+### [Esquema HW](#esquema-hw)
+### [Esquema SW](#esquema-sw)
+### [Resultats Finals + Video](#resultats-finals--video)
 ### [Autors](#autors)
-
 
 ### Contingut
 
@@ -20,6 +19,7 @@ Les llibreries necessàries per aquest projecte son:
 - OpenCV
 - Numpy
 - time
+
 ### Components
 - Raspberry Pi 3 B+
 - Cámara Raspberry
@@ -31,9 +31,13 @@ Les llibreries necessàries per aquest projecte son:
 - Controlador de motores
 - Bateria externa
 - Relé
-### HW-![MiniGolfer Hardware Diagram](./HW/MiniGolfer_HW.png)
-### SW-
+
+### Esquema HW
+![MiniGolfer Hardware Diagram](./HW/MiniGolfer_HW.png)
+
+### Esquema SW
 ![Architecture MINIGOLFER](ASW/ArquitecturaSW.png)
+
 ### Resultats Finals + Video
 
 ### Autors
@@ -41,8 +45,3 @@ Les llibreries necessàries per aquest projecte son:
 - Bernat Brustenga Garriga
 - Wenpeng Ji
 - Joaquim Calavera Madaula
-
-
-
-
-
