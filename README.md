@@ -9,6 +9,7 @@ MiniGolfer es un robot el qual es capaç de jugar a minigolf.
 ### [Resultats Finals + Video](#RFV)
 ### [Autors](#autors)
 
+
 ### Contingut
 
 Aquí está el contenido de la sección Contingut.
@@ -31,16 +32,17 @@ Les llibreries necessàries per aquest projecte son:
 - Bateria externa
 - Relé
 ### HW-![MiniGolfer Hardware Diagram](./HW/MiniGolfer_HW.png)
-3D-
-
 ### SW-
 ![Architecture MINIGOLFER](ASW/ArquitecturaSW.png)
+### Resultats Finals + Video
+
+### Autors
+- Arnau Altimira Rubio
+- Bernat Brustenga Garriga
+- Wenpeng Ji
+- Joaquim Calavera Madaula
 
 
 
 
-
-TO DO's
-
-Refs|
 
