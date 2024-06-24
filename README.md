@@ -34,7 +34,7 @@ Les llibreries necessàries per aquest projecte son:
 - Relé
 
 ### Esquema HW
-![MiniGolfer Hardware Diagram](./HW/.png)
+![MiniGolfer Hardware Diagram](./HW/MiniGolfer_HW.png)
 
 ### Esquema SW
 ![Architecture MINIGOLFER](ASW/ArquitecturaSW.png)
