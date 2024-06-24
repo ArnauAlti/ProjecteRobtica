@@ -19,7 +19,17 @@ Les llibreries necessàries per aquest projecte son:
 - OpenCV
 - Numpy
 - time
-
+### Components
+- Raspberry Pi 3 B+
+- Cámara Raspberry
+- 2 Motor Rodes
+- Sensor de distancia por ultrasonidos
+- Placa de prototipo
+- Base para baterías (6xAA)
+- Solenoide 5v
+- Controlador de motores
+- Bateria externa
+- Relé
 
 
 
