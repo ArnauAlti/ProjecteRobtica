@@ -40,7 +40,7 @@ Les llibreries necessàries per aquest projecte son:
 ![Architecture MINIGOLFER](ASW/ArquitecturaSW.png)
 
 ### Resultats Finals + Video
-
+https://www.youtube.com/watch?v=eHLhcOQ6SlU
 ### Autors
 
 - Arnau Altimira Rubio
