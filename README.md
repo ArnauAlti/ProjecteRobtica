@@ -9,7 +9,7 @@ HW-![MiniGolfer Hardware Diagram](./HW/MiniGolfer_HW.png)
 3D-
 
 SW-
-![Architecture MINIGOLFER](https://github.com/ArnauAlti/ProjecteRobtica/assets/123361685/37d9040e-9104-4252-9a33-a133efc04ff0)
+![Architecture MINIGOLFER](ASW/ArquitecturaSW.png)
 
 
 TO DO's
