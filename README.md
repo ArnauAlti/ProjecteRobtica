@@ -75,6 +75,7 @@ Conexió extra USB: Càmera
 ### Resultats Finals + Video
 [![Miniatura del video](https://img.youtube.com/vi/eHLhcOQ6SlU/0.jpg)](https://www.youtube.com/watch?v=eHLhcOQ6SlU)
 
+![Mini_golfer](Imatges/Finals/Mini_golfer_front_2.jpg)
 ### Autors
 
 - Arnau Altimira Rubio
